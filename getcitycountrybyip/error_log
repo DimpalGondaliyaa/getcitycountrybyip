@@ -1,0 +1,38 @@
+[30-Apr-2016 03:32:39 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/phpgurukul/public_html/demos/getcitycountrybyip/index.php on line 61
+[30-Apr-2016 03:32:39 UTC] PHP Warning:  file_get_contents(http://www.geoplugin.net/php.gp?ip=100.43.91.7): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/phpgurukul/public_html/demos/getcitycountrybyip/index.php on line 61
+[30-Apr-2016 06:59:13 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/phpgurukul/public_html/demos/getcitycountrybyip/index.php on line 61
+[30-Apr-2016 06:59:13 UTC] PHP Warning:  file_get_contents(http://www.geoplugin.net/php.gp?ip=122.176.54.145): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/phpgurukul/public_html/demos/getcitycountrybyip/index.php on line 61
+[30-Apr-2016 06:59:28 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/phpgurukul/public_html/demos/getcitycountrybyip/index.php on line 61
+[30-Apr-2016 06:59:28 UTC] PHP Warning:  file_get_contents(http://www.geoplugin.net/php.gp?ip=122.176.54.145): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/phpgurukul/public_html/demos/getcitycountrybyip/index.php on line 61
+[30-Apr-2016 06:59:53 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/phpgurukul/public_html/demos/getcitycountrybyip/index.php on line 61
+[30-Apr-2016 06:59:53 UTC] PHP Warning:  file_get_contents(http://www.geoplugin.net/php.gp?ip=72.14.199.74): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/phpgurukul/public_html/demos/getcitycountrybyip/index.php on line 61
+[30-Apr-2016 19:46:21 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/phpgurukul/public_html/demos/getcitycountrybyip/index.php on line 61
+[30-Apr-2016 19:46:21 UTC] PHP Warning:  file_get_contents(http://www.geoplugin.net/php.gp?ip=40.117.234.225): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/phpgurukul/public_html/demos/getcitycountrybyip/index.php on line 61
+[30-Apr-2016 22:09:31 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/phpgurukul/public_html/demos/getcitycountrybyip/index.php on line 61
+[30-Apr-2016 22:09:31 UTC] PHP Warning:  file_get_contents(http://www.geoplugin.net/php.gp?ip=190.129.127.2): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/phpgurukul/public_html/demos/getcitycountrybyip/index.php on line 61
+[01-May-2016 06:39:04 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/phpgurukul/public_html/demos/getcitycountrybyip/index.php on line 61
+[01-May-2016 06:39:04 UTC] PHP Warning:  file_get_contents(http://www.geoplugin.net/php.gp?ip=141.8.143.197): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/phpgurukul/public_html/demos/getcitycountrybyip/index.php on line 61
+[02-May-2016 04:22:32 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/phpgurukul/public_html/demos/getcitycountrybyip/index.php on line 61
+[02-May-2016 04:22:32 UTC] PHP Warning:  file_get_contents(http://www.geoplugin.net/php.gp?ip=39.37.179.94): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/phpgurukul/public_html/demos/getcitycountrybyip/index.php on line 61
+[02-May-2016 04:25:54 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/phpgurukul/public_html/demos/getcitycountrybyip/index.php on line 61
+[02-May-2016 04:25:54 UTC] PHP Warning:  file_get_contents(http://www.geoplugin.net/php.gp?ip=39.37.179.94): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/phpgurukul/public_html/demos/getcitycountrybyip/index.php on line 61
+[02-May-2016 04:25:56 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/phpgurukul/public_html/demos/getcitycountrybyip/index.php on line 61
+[02-May-2016 04:25:56 UTC] PHP Warning:  file_get_contents(http://www.geoplugin.net/php.gp?ip=162.243.5.155): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/phpgurukul/public_html/demos/getcitycountrybyip/index.php on line 61
+[02-May-2016 12:40:29 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/phpgurukul/public_html/demos/getcitycountrybyip/index.php on line 61
+[02-May-2016 12:40:29 UTC] PHP Warning:  file_get_contents(http://www.geoplugin.net/php.gp?ip=103.201.126.231): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/phpgurukul/public_html/demos/getcitycountrybyip/index.php on line 61
+[03-May-2016 03:22:24 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/phpgurukul/public_html/demos/getcitycountrybyip/index.php on line 61
+[03-May-2016 03:22:24 UTC] PHP Warning:  file_get_contents(http://www.geoplugin.net/php.gp?ip=100.43.91.7): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/phpgurukul/public_html/demos/getcitycountrybyip/index.php on line 61
+[30-Sep-2017 04:06:33 UTC] PHP Warning:  file_get_contents(http://www.geoplugin.net/php.gp?ip=103.231.4.140): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/phpgurukul/public_html/demos/getcitycountrybyip/index.php on line 61
+[02-Dec-2017 14:24:16 UTC] PHP Warning:  file_get_contents(http://www.geoplugin.net/php.gp?ip=103.93.194.172): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/phpgurukul/public_html/demos/getcitycountrybyip/index.php on line 61
+[06-Dec-2017 08:15:10 UTC] PHP Warning:  file_get_contents(http://www.geoplugin.net/php.gp?ip=66.102.6.110): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/phpgurukul/public_html/demos/getcitycountrybyip/index.php on line 61
+[06-Dec-2017 08:15:11 UTC] PHP Warning:  file_get_contents(http://www.geoplugin.net/php.gp?ip=66.102.6.108): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/phpgurukul/public_html/demos/getcitycountrybyip/index.php on line 61
+[06-Dec-2017 08:24:27 UTC] PHP Warning:  file_get_contents(http://www.geoplugin.net/php.gp?ip=66.102.6.110): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/phpgurukul/public_html/demos/getcitycountrybyip/index.php on line 61
+[06-Dec-2017 08:24:28 UTC] PHP Warning:  file_get_contents(http://www.geoplugin.net/php.gp?ip=66.102.6.112): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/phpgurukul/public_html/demos/getcitycountrybyip/index.php on line 61
+[06-Dec-2017 08:24:33 UTC] PHP Warning:  file_get_contents(http://www.geoplugin.net/php.gp?ip=72.14.199.108): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/phpgurukul/public_html/demos/getcitycountrybyip/index.php on line 61
